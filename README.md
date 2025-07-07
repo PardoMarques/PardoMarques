@@ -44,7 +44,7 @@
 
 ### 🌟 Featured Projects
 
-- **[Data Science - Real State Analysis](https://github.com/pardomarques/ds_real_state_analysis):** Python: Webscraping + ETL pipeline + LLM + ...
+- **[Data Science - Real Estate Analysis](https://github.com/pardomarques/ds_real_estate_analysis):** Python: Webscraping + ETL pipeline + LLM + ...
 - **[Quality Assurance - Automation Mobile APP](https://github.com/PardoMarques/Automacao_Mobile_Politize_Appium):** Java: Appium + ScreenObjects
 - **[Quality Assurance - Automation API Template](https://github.com/PardoMarques/Automacao_API_Servest_Httparty_Basico):** Ruby + Httparty + Faker + Parallel
 
