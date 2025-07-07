@@ -19,7 +19,7 @@
 - **QAOps / DevOps for QA:** Jenkins, Azure DevOps, Docker, Dynatrace, Grafana
 
 ### **Leadership & Agile**
-- _2x Chapter Leader** | **Mentor at FCamara_
+- _2x Chapter Leader | Mentor at FCamara_
 - _TMMi Consultant (Test Maturity Model Integration)_
 
 ### **Certifications**
