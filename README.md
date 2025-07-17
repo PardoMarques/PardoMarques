@@ -23,6 +23,7 @@
 - _TMMi Consultant (Test Maturity Model Integration)_
 
 ### **Certifications**
+- 🏅 ISTQB - CT-AI (Certified Tester Artificial Intelligence)
 - 🏅 ISTQB - CTFL (Certified Tester Foundation Level v4.0)
 - 🌀 CertiProf - SFPC (Scrum Foundation Professional Certification)
 - ⚡ QASkills - Web Automation, APIs & DevOps (2020)
