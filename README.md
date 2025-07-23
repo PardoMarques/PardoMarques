@@ -9,15 +9,6 @@
 
 ---
 
-## 🛠️ Main Skills
-
-### **Test Automation**
-- **Platforms:** WEB | MOBILE | DESKTOP | API | DB(SQL)
-- **Languages:** Python, Javascript, Ruby, Java
-- **Frameworks:** Selenium, Appium, Robot, Playwright, Cypress, Capybara, Httparty, Postman, SoapUI
-- **Performance Testing: JMeter, K6, Locust**
-- **QAOps / DevOps for QA:** Jenkins, Azure DevOps, Docker, Dynatrace, Grafana
-
 ### **Leadership & Agile**
 - _2x Chapter Leader | Mentor at FCamara_
 - _TMMi Consultant (Test Maturity Model Integration)_
@@ -29,6 +20,15 @@
 - ⚡ QASkills - Web Automation, APIs & DevOps (2020)
 
 ---
+
+## 🛠️ Main Skills
+
+### **Test Automation**
+- **Platforms:** WEB | MOBILE | DESKTOP | API | DB(SQL)
+- **Languages:** Python, Javascript, Ruby, Java
+- **Frameworks:** Selenium, Appium, Robot, Playwright, Cypress, Capybara, Httparty, Postman, SoapUI
+- **Performance Testing: JMeter, K6, Locust**
+- **QAOps / DevOps for QA:** Jenkins, Azure DevOps, Docker, Dynatrace, Grafana
 
 ### Data Science & Data Engineering
 - **Data manipulation & analysis:** NumPy, Pandas, SQL
@@ -46,6 +46,7 @@
 ### 🌟 Featured Projects
 
 - **[Data Science - Real Estate Analysis](https://github.com/pardomarques/ds_real_estate_analysis):** Python: Webscraping + ETL pipeline + LLM + ...
+- **[Data Science - Urban Chaos - São Paulo](https://github.com/pardomarques/ds_urbanchaos_sp):** Python: Pandas/GeoPandas + Matplotlib + Seaborn + PyTorch
 - **[Quality Assurance - Automation Mobile APP](https://github.com/PardoMarques/Automacao_Mobile_Politize_Appium):** Java: Appium + ScreenObjects
 - **[Quality Assurance - Automation API Template](https://github.com/PardoMarques/Automacao_API_Servest_Httparty_Basico):** Ruby + Httparty + Faker + Parallel
 
