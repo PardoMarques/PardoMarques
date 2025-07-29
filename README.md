@@ -45,10 +45,10 @@
 
 ### 🌟 Featured Projects
 
-- **[Data Science - Real Estate Analysis](https://github.com/pardomarques/ds_real_estate_analysis):** Python: Webscraping + ETL pipeline + LLM + ...
-- **[Data Science - Urban Chaos - São Paulo](https://github.com/pardomarques/ds_urbanchaos_sp):** Python: Pandas/GeoPandas + Matplotlib + Seaborn + PyTorch
-- **[Quality Assurance - Automation Mobile APP](https://github.com/PardoMarques/Automacao_Mobile_Politize_Appium):** Java: Appium + ScreenObjects
-- **[Quality Assurance - Automation API Template](https://github.com/PardoMarques/Automacao_API_Servest_Httparty_Basico):** Ruby + Httparty + Faker + Parallel
+- **[Data Science - Urban Chaos - Sao Paulo](https://github.com/pardomarques/ds-urbanchaos-sp):** Python: Pandas/GeoPandas + Matplotlib + Seaborn + PyTorch
+- **[Data Science - Crawler Real Estate Template](https://github.com/pardomarques/crawler-real-estate-template):** Python: Webscraping + ETL pipeline + LLM + ...
+- **[QA - Automation Mobile APP](https://github.com/PardoMarques/automacao-mobile-politize-appium):** Java: Appium + ScreenObjects
+- **[QA - Automation API Template](https://github.com/PardoMarques/automacao-api-servest-httparty):** Ruby + Httparty + Faker + Parallel
 
 ---
 
