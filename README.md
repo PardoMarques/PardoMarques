@@ -17,7 +17,14 @@
 - 🏅 ISTQB - CT-AI (Certified Tester Artificial Intelligence)
 - 🏅 ISTQB - CTFL (Certified Tester Foundation Level v4.0)
 - 🌀 CertiProf - SFPC (Scrum Foundation Professional Certification)
-- ⚡ QASkills - Web Automation, APIs & DevOps (2020)
+---
+
+### 🌟 Featured Projects
+- **[PYTHONISTA - SUPER_PLAY](https://github.com/PardoMarques/super_play):** Mega automação de meta automação RPA/QA/WebScraping
+- **[Data Science - Urban Chaos - Sao Paulo](https://github.com/pardomarques/ds-urbanchaos-sp):** Python: Pandas/GeoPandas + Matplotlib + Seaborn + PyTorch
+- **[Data Science - Crawler Real Estate Template](https://github.com/pardomarques/crawler-real-estate-template):** Python: Webscraping + ETL pipeline + LLM + ...
+- **[QA - Automation Mobile APP](https://github.com/PardoMarques/automacao-mobile-politize-appium):** Java: Appium + ScreenObjects
+- **[QA - Automation API Template](https://github.com/PardoMarques/automacao-api-servest-httparty):** Ruby + Httparty + Faker + Parallel
 
 ---
 
@@ -40,24 +47,6 @@
 - **Deep Learning:** PyTorch, TensorFlow
 - **Unstructured Data Modeling:** LlamaIndex
 - **Computer Vision:** OpenCV, Tesseract OCR
-
----
-
-### 🌟 Featured Projects
-
-- **[Data Science - Urban Chaos - Sao Paulo](https://github.com/pardomarques/ds-urbanchaos-sp):** Python: Pandas/GeoPandas + Matplotlib + Seaborn + PyTorch
-- **[Data Science - Crawler Real Estate Template](https://github.com/pardomarques/crawler-real-estate-template):** Python: Webscraping + ETL pipeline + LLM + ...
-- **[QA - Automation Mobile APP](https://github.com/PardoMarques/automacao-mobile-politize-appium):** Java: Appium + ScreenObjects
-- **[QA - Automation API Template](https://github.com/PardoMarques/automacao-api-servest-httparty):** Ruby + Httparty + Faker + Parallel
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pardomarques&show_icons=true&theme=tokyonight" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pardomarques&layout=compact&theme=tokyonight" alt="top langs" />
-</p>
 
 ---
 
